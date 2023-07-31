@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/tiagorlampert/CHAOS/client/app/environment"
 	"github.com/tiagorlampert/CHAOS/client/app/gateways"
-	"github.com/tiagorlampert/CHAOS/client/app/services"
+
 	"io/ioutil"
 	"net/http"
 	"os"
